@@ -33,6 +33,23 @@ This project focuses on analyzing business data using SQL queries to extract mea
 - Analyzed sales patterns and business performance.
 - Used SQL queries to transform raw data into meaningful information.
 
+- ## Project Results
+
+The SQL analysis helped extract valuable business insights from the dataset, including:
+
+- Identifying sales performance trends.
+- Analyzing customer and product performance.
+- Using SQL functions and queries to answer business questions.
+- Transforming raw data into meaningful information for decision-making.
+
+## Skills Demonstrated
+
+- SQL Query Writing
+- Data Analysis
+- Data Exploration
+- Data Cleaning
+- Business Insight Generation
+
 ## Conclusion
 
 This project demonstrates my ability to use SQL for data analysis, data exploration, and generating insights that can support business decisions.
